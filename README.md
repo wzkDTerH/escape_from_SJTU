@@ -1,0 +1,2 @@
+# escape_from_SJTU
+一个大一时写的作为大作业的python游戏
